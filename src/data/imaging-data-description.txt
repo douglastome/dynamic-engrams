@@ -1,0 +1,14 @@
+The longitudinal imaging data in Fig. 4a (i.e., calcium signals) is provided in the files mouse*.csv that have the following naming structure:
+
+mouse + mouse_number + _ + session + .csv
+
+Mouse number can be one of the of the following: 1 / 2 / 3 / 4 
+
+Session can be one of the following (in the order of the experimental protocol depicted in Fig. 4a):
+
+Files:   hc0 / cfc / hc1 / neutral1 / training1 / hc2 / neutral2 / training2
+Fig. 4a: HC  / FT  / HC  /    NC    /    TC     / HC  /    NC    /    TC
+
+For example, the file mouse3_neutral2.csv has the calcium signals for mouse 3 during recall in the neutral context after a delay of 24h following fear training.
+
+For each file with longitudinal imaging data, rows index time stamp while columns index cell number. The longitudinal imaging data with time stamps and cell numbers is provided in the Source Data files of the manuscript.
