@@ -4,7 +4,7 @@ This repository contains the code used to perform the simulations and data analy
 
 ```
 Tomé, D.F., Zhang, Y., Aida, T., Mosto, O., Lu, Y., Chen, M., Sadeh, S., Roy, D. S., Clopath, C.
-Dynamic and selective engrams emerge with memory consolidation. 2023.
+Dynamic and selective engrams emerge with memory consolidation. Nature Neuroscience. 2024.
 ```
 
 This file provides specific instructions to reproduce our key simulation results (Fig. 1d-k, Extended Data Fig. 2a-g, and Extended Data Fig. 3j-m). The remaining simulations and data analyses in the manuscript (including analyses of experimental data) can also be reproduced with this source code by modifying simulation and data analysis parameters (see below).
